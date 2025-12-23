@@ -1,17 +1,9 @@
 hai *** myself ashok kumar and i have done graduatation in ece i have 4.2 yoe exp as a etl tester in maxis software pvt ltd and my roles and responsibilities are validating the source and target data,and writing the sql queries for that and preparing the test cases and test documentsnnnn
 
-
-nnnn
-
-count 
+born Shivaji Rao Gaekwad on December 12, 1950, is an iconic Indian actor, producer, and screenwriter, legendary in Tamil cinema but celebrated across India and globally for his unique style, charismatic screen presence, and powerful one-liners, earning him the title "Thalaiva" (leader) and a demigod status among fans. Starting as a bus conductor, he rose to superstardom with films like
 
 
-unix
-
-
-diff
-
-
+born Shivaji Rao Gaekwad on December 12, 1950, is an iconic Indian actor, producer, and screenwriter, legendary in Tamil cinema but celebrated across India and globally for his unique style, charismatic screen presence, and powerful one-liners, earning him the title "Thalaiva" (leader) and a demigod status among fans. Starting as a bus conductor, he rose to superstardom with films like
 
 
 
